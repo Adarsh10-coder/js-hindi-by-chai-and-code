@@ -22,3 +22,9 @@ const myFunction = function(){
     console.log("Hello world");
 }
 console.log(typeof myFunction);
+
+ // *******************************MEMORY**********************************
+ /* Types of memory --->
+  1.stack (primitive)
+  2.Heap (non-primitive)
+  */
