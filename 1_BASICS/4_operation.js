@@ -2,7 +2,7 @@ let value = 3
 let negativeValue = -value
 console.log(negativeValue);
 
-/* Some operation are --->
+/* Some basics operation are --->
 console.log(2+2);
 console.log(2-2);
 console.log(2*2);

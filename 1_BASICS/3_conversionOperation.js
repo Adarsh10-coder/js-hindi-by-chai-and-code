@@ -1,4 +1,4 @@
-let score ="33abc" // we can also use 24345,Null,undefined,true....etc
+let score ="33abc" // we can also use 24345,null,undefined,true....etc
 
 console.log(typeof score);
 
