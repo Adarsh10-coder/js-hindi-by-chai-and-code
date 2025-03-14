@@ -18,7 +18,8 @@ function one(){
 
     two()
 }  
-// fuction two can oparate function one but function one can't operate two, so... console.log(website) doesn't oparate
+// fuction two can oparate function one but function one can't operate two,
+//  so... console.log(website) doesn't oparate
 
 if (true){
     const username = "Adarsh"
