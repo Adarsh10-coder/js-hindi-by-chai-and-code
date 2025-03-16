@@ -1,0 +1,9 @@
+JavaScript Execution context
+
+{ code } ----> Global Execution context -----> this ( 1st phase)
+|---> Global Execution context
+|---> Function Execution context
+|---> Eval Execution context
+
+{code}---> Memory creation phase (2nd phase)
+     ----> Execution phase  (3rd phase)
